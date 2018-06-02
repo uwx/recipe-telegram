@@ -9,6 +9,7 @@
   "config": {
     "serviceURL": "https://web.telegram.org",
     "hasDirectMessages": true,
+    "hansenFastPreload": true,
     "hasNotificationSound": true
   }
 }
